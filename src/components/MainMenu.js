@@ -5,7 +5,7 @@ export const MainMenu = () => (
 <MainMenuContainer>
     <ul>
         <li><Link to="/">Home</Link></li>
-        <li><Link to="/about">Sobre nós</Link></li>        
+        <li><Link to="/about">Sobre-nós-aqui</Link></li>        
     </ul>
 
 </MainMenuContainer>
